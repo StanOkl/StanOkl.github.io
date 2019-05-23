@@ -6,5 +6,5 @@ excerpt: 'For decades, campaigns have used phone calls to move voters to the pol
 date: 2019-01-01
 venue: 'Electoral Studies'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0261379418304219'
-citation: 'Abrajano, M., Carlson, T. N., Bedolla, L. G., Oklobdzija, S., & Turney, S. (2019). When campaigns call, who answers? Using observational data to enrich our understanding of phone mobilization. Electoral Studies.'
+citation: 'Abrajano, M., Carlson, T. N., Bedolla, L. G., Oklobdzija, S., & Turney, S. (2019). When campaigns call, who answers? Using observational data to enrich our understanding of phone mobilization. Electoral Studies. https://doi.org/10.1016/j.electstud.2019.03.001'
 ---
