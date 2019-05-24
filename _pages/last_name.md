@@ -12,7 +12,7 @@ Like most words with origins the Balkans, my last name looks like an unpronounce
 Broken up, my last name is pronounced like so, (with emphasis on the second syllable):
 
 OH-KLOBE-GEE-YA.
-With “Oh,” pronounced like a long “O,” “KLOBE,” like “Globe,” “Gee” like the first syllable in “Genie,” and “Ya” like [the Outkast song](https://www.youtube.com/watch?v=PWgvGjAhvIw).
+With “Oh,” pronounced like a long “O,” “KLOBE,” like “Globe,” “Gee” like the first syllable in “Genie,” and “Ya” like [the Outkast song](https://youtu.be/PWgvGjAhvIw?t=65).
 
 In Serbian Cyrillic, it would like like this:
 
