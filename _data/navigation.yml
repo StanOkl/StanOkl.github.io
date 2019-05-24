@@ -6,8 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Working Papers/Non-Academic Writing"
+  - title: "Working Papers"
     url: /work_papers/    
+
+  - title: "Non-Academic Writing"
+    url: /nonacad_write/
 
   - title: "Teaching"
     url: /teaching/    
