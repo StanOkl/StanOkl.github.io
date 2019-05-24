@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "POLI 5D/ECON 5: Data Analytics for the Social Sciences."
 collection: teaching
-type: "Workshop"
+type: "Instructor of Record"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "UC San Diego"
+date: 2017-04-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* [Syllabus](/files/oklobdzija_syllabus5D_1718.pdf)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Evaluations:
+  * [Here](/files/econ_review.pdf) and [here](/files/polisci_review.pdf)
+  * 100% of students answered yes to "Do you recommend this professor overall?"
