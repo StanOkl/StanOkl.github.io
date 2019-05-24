@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "UC San Diego"
+quarter: "Spring"
 date: 2018-04-01
 location: "City, Country"
 ---
