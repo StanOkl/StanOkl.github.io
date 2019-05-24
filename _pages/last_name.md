@@ -5,11 +5,7 @@ permalink: /last_name/
 author_profile: true
 
 ---
-
-
-##HOW TO PRONOUNCE MY LAST NAME:
-
-(Totally stolen from [Katya Ognyanova’s](http://kateto.net/ognyanova) blog.)
+(Inspired by [Katya Ognyanova’s](http://kateto.net/ognyanova) blog.)
 
 Like most words with origins the Balkans, my last name looks like an unpronounceable jumble of consonants, (a fact [the Onion once parodied.](https://www.ling.upenn.edu/~beatrice/humor/clinton-deploys-vowels.html)) However, with a little knowledge of Serbo-Croatian orthography, it’s rather easy. Unlike English, French or Arabic, the languages of the former Yugoslavia have a highly regimented orthography where each letter represents one sound.
 
