@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Stan Oklobdzija, Ph.D. Candidate, Political Science, UC San Diego"
+title: "Stan Oklobdzija, Political Science, UC San Diego"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
