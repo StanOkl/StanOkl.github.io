@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Website coming soon.
+Hello! I am currently a post-doctoral fellow at Claremont McKenna College. My research interests revolve around using computational social science tools to answer questions about campaign finance and election law in the United States. My work has been published in Electoral Studies, Research & Politics and State Politics & Policy Quarterly. I hold a Ph.D. in Political Science from UC San Diego and a Master of Public Policy from the University of Southern California. 
