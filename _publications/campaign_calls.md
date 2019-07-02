@@ -8,3 +8,4 @@ venue: 'Electoral Studies'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0261379418304219'
 citation: 'Abrajano, M., Carlson, T. N., Bedolla, L. G., Oklobdzija, S., & Turney, S. (2019). When campaigns call, who answers? Using observational data to enrich our understanding of phone mobilization. Electoral Studies. https://doi.org/10.1016/j.electstud.2019.03.001'
 ---
+[Download Paper Here](https://github.com/StanOkl/StanOkl.github.io/blob/master/files/campaigns_es.pdf)
