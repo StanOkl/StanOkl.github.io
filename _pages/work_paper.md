@@ -6,7 +6,7 @@ author_profile: true
 ---
 1. [Dark-ish Money: What ‘Pop-Up PACs’ Can Teach Us About Donors and Disclosure.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441922)
 
-**Abstract:** Over the past decade, the amount of “dark money”–or independent expenditures
+   **Abstract:** Over the past decade, the amount of “dark money”–or independent expenditures
 from groups that don’t disclose their donors–has grown to encompass a significant slice of total spending in
 American elections. How does the absence of disclosure affect the behavior of both donors and electioneering
 organizations? While the secretive design of dark money makes data on them extremely limited, the 2018
