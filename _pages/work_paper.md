@@ -4,6 +4,25 @@ title: "Working Papers"
 permalink: /work_papers/
 author_profile: true
 ---
+1. [Dark-ish Money: What ‘Pop-Up PACs’ Can Teach Us About Donors and Disclosure.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441922)
+
+**Abstract:** Over the past decade, the amount of “dark money”–or independent expenditures
+from groups that don’t disclose their donors–has grown to encompass a significant slice of total spending in
+American elections. How does the absence of disclosure affect the behavior of both donors and electioneering
+organizations? While the secretive design of dark money makes data on them extremely limited, the 2018
+election provided a useful stand-in to examine the role of disclosure in elections. ‘Pop-Up PACs’ are super
+PACs that form just after the last disclosure federal deadline before an election–allowing them to postpone
+revealing their donors until after voters have gone to the polls. In total, 63 super PACs employed this tactic
+during the 2018 midterms, spending a combined $21.6 million. Examining these late-disclosing super PACs, I
+find that they raise more money from other committees–indicating that they perceive that voters will penalize
+them for associations with certain donors. Further, I find that donors who gave to Pop-Up PACs supported a
+far less ideologically extreme set of candidate when giving directly and transparently to other candidates.
+These late-disclosing super PACs also supported more ideologically extreme candidates than did super PACs
+who disclosed their donors prior to an election. In sum, these results add credence to theories that donors
+alter their behavior in response to social pressures and that being able to hide the sources of one’s money
+correlates with an electoral organization eschewing moderates in favor of extremists.
+
+
 
 1. [The Noisy Neighbor Effect: How Negative Advertising in One State Influences Viewers Next Door.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3337099)
 
