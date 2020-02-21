@@ -4,7 +4,7 @@ title: "Working Papers"
 permalink: /work_papers/
 author_profile: true
 ---
-1. [Dark-ish Money: What ‘Pop-Up PACs’ Can Teach Us About Donors and Disclosure.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441922)
+1. [I’ll Be Disclosed By Christmas: What ‘Pop-Up PACs’ Can Teach Us About Disclosure and Dark Money.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441922)
 
    **Abstract:** Over the past decade, the amount of “dark money”–or independent expenditures
 from groups that don’t disclose their donors–has grown to encompass a significant slice of total spending in
