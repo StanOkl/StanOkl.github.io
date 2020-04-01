@@ -5,6 +5,6 @@ permalink: /covid_map/
 author_profile: true
 ---
 
-##COVID-19 Map, (Updated Daily from (NYT)[https://github.com/nytimes/covid-19-data] Data)
+# COVID-19 Map, (Updated Daily from NYT](https://github.com/nytimes/covid-19-data) Data)
 
 
