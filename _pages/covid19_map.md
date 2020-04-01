@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "COVID-19 Map from NYT Data"
 permalink: /covid_map/
 author_profile: true
