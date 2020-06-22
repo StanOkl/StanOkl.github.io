@@ -7,9 +7,9 @@ author_profile: true
 
 ## Media Interviews:
 
-* ["Ocasio-Cortez builds political army, and a fundraising machine to match"](https://thehill.com/homenews/house/503652-ocasio-cortez-builds-political-army-and-a-fundraising-machine-to-match)
+* ["Ocasio-Cortez builds political army, and a fundraising machine to match." *The Hill*](https://thehill.com/homenews/house/503652-ocasio-cortez-builds-political-army-and-a-fundraising-machine-to-match)
 
-* ["Warren tax on 'excessive lobbying' gives NRA a pass"](https://www.washingtonexaminer.com/news/warren-tax-on-excessive-lobbying-would-skip-nra)
+* ["Warren tax on 'excessive lobbying' gives NRA a pass" *The Washington Examiner.*](https://www.washingtonexaminer.com/news/warren-tax-on-excessive-lobbying-would-skip-nra)
 
 ## Campaign Finance:
 
