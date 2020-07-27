@@ -13,6 +13,10 @@ author_profile: true
 
 ## Campaign Finance:
 
+### For 3Streams:
+
+* ["Despite its Role in a Billion Dollar Corruption Scandal, 'Dark Money' is Here to Stay"](https://medium.com/3streams/despite-its-role-in-a-billion-dollar-corruption-scandal-dark-money-is-here-to-stay-3e194ac3dde9)
+
 ### For the London School of Economics’ United States Policy and Politics Blog:
 
 * [“Why do lawmakers shutdown the government? Evidence from California shows we should ‘follow the money.’”](http://blogs.lse.ac.uk/usappblog/2018/03/01/why-do-lawmakers-shutdown-the-government-evidence-from-california-shows-we-should-follow-the-money/)
