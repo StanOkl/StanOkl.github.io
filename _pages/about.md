@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a Post-Doctoral Fellow at [Claremont McKenna College's Policy Lab](https://policylab.cmc.edu/). I hold a Ph.D. in Political Science from UC San Diego. 
+Hello! I am currently the Research Director for [California YIMBY](https://cayimby.org/), a group working to end California's housing crisis. I hold a Ph.D. in Political Science from UC San Diego. 
 
-My research interests involve using computational social science tools to answer questions about campaign finance and election law in the United States. My work has been published in *Electoral Studies*, *Research & Politics* and *State Politics & Policy Quarterly*. I also hold a Master of Public Policy from the University of Southern California and a BA in Sociology from UC Davis. 
+My current work focuses on how interest groups work through state and local government to restrict the supply of housing. Previously, my research involved using computational social science tools to answer questions about campaign finance and election law in the United States. My work has been published in *Electoral Studies*, *Research & Politics* and *State Politics & Policy Quarterly*. I also hold a Master of Public Policy from the University of Southern California's Price School and a BA in Sociology from UC Davis. 
 
-I also created [this map](http://acsweb.ucsd.edu/~soklobdz/covid_map.html) which provides a daily update on COVID19 cases in the United States based on data collected by the [New York Times](https://github.com/nytimes/covid-19-data).
+While stuck inside at the beginning of quarantine, I also created [this map](http://acsweb.ucsd.edu/~soklobdz/covid_map.html) which provides a daily update on COVID19 cases in the United States based on data collected by the [New York Times](https://github.com/nytimes/covid-19-data).
