@@ -34,7 +34,7 @@ author_profile: true
 
 ### For California YIMBY:
 
-*["Los Angeles Studio Apartments: Worth More than a Parking Lot?](https://cayimby.org/los-angeles-studio-apartments-worth-more-than-a-parking-lot/)
+* ["Los Angeles Studio Apartments: Worth More than a Parking Lot?](https://cayimby.org/los-angeles-studio-apartments-worth-more-than-a-parking-lot/)
   * [Research report here.](https://cayimby.org/wp-content/uploads/2020/10/lac_parking_white_paper.pdf)
 
 ### For BeyondChron:
