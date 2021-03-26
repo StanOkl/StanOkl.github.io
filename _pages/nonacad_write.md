@@ -32,6 +32,9 @@ author_profile: true
 
 ## Housing and Land-Use Policy:
 
+### For the Los Angeles Daily News:
+* ["The Myth of Excess Vacant Housing Distracts from Solutions"](https://www.dailynews.com/2021/03/25/the-myth-of-excess-vacant-housing-distracts-from-solutions/)
+
 ### For California YIMBY:
 
 * ["Los Angeles Studio Apartments: Worth More than a Parking Lot?](https://cayimby.org/los-angeles-studio-apartments-worth-more-than-a-parking-lot/)
