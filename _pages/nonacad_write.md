@@ -32,11 +32,14 @@ author_profile: true
 
 ## Housing and Land-Use Policy:
 
+### For Slow Boring:
+* ["America's cities need multi-party democracy"](https://www.slowboring.com/p/cities-democracy-multiparty)
+
 ### For the Los Angeles Daily News:
 * ["The Myth of Excess Vacant Housing Distracts from Solutions"](https://www.dailynews.com/2021/03/25/the-myth-of-excess-vacant-housing-distracts-from-solutions/)
 
 ### For California YIMBY:
-
+* ["California’s Housing Crisis is a Failure of California’s Democracy"](https://cayimby.org/californias-housing-crisis-is-a-failure-of-californias-democracy/)
 * ["Los Angeles Studio Apartments: Worth More than a Parking Lot?](https://cayimby.org/los-angeles-studio-apartments-worth-more-than-a-parking-lot/)
   * [White paper here.](https://cayimby.org/wp-content/uploads/2020/10/lac_parking_white_paper.pdf)
 
