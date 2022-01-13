@@ -48,6 +48,7 @@ author_profile: true
 
 
 ## Media Interviews:
+* ["How Uber and Lyft get what they want." *Crain's Chicago Business.*](https://www.chicagobusiness.com/transportation/how-uber-and-lyft-get-what-they-want)
 
 * ["Ocasio-Cortez builds political army, and a fundraising machine to match." *The Hill.*](https://thehill.com/homenews/house/503652-ocasio-cortez-builds-political-army-and-a-fundraising-machine-to-match)
 
