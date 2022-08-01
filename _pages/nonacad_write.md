@@ -53,3 +53,11 @@ author_profile: true
 * ["Ocasio-Cortez builds political army, and a fundraising machine to match." *The Hill.*](https://thehill.com/homenews/house/503652-ocasio-cortez-builds-political-army-and-a-fundraising-machine-to-match)
 
 * ["Warren tax on 'excessive lobbying' gives NRA a pass." *The Washington Examiner.*](https://www.washingtonexaminer.com/news/warren-tax-on-excessive-lobbying-would-skip-nra)
+
+## Podcasts:
+
+* [Policy Chats: "The History, Cause and Impacts of the Housing Crisis."](https://open.spotify.com/show/19fAfX6ZCE2paaYLFvfp0P)
+
+* [Factually! with Adam Conover: "Why Single Party Rule is Bad For Democracy"](https://podcasts.apple.com/id/podcast/why-single-party-rule-is-bad-for-democracy-with-stan/id1463460577?i=1000540580767)
+
+
