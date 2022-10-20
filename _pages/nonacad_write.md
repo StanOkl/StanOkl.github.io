@@ -48,6 +48,9 @@ author_profile: true
 
 
 ## Media Interviews:
+
+* ["Force multipliers: How one donor network is pushing the envelope on California campaign money." *CalMatters.*](https://calmatters.org/politics/election-2022/2022/08/california-campaign-finance-donor-network/)
+
 * ["How Uber and Lyft get what they want." *Crain's Chicago Business.*](https://www.chicagobusiness.com/transportation/how-uber-and-lyft-get-what-they-want)
 
 * ["Ocasio-Cortez builds political army, and a fundraising machine to match." *The Hill.*](https://thehill.com/homenews/house/503652-ocasio-cortez-builds-political-army-and-a-fundraising-machine-to-match)
@@ -55,6 +58,8 @@ author_profile: true
 * ["Warren tax on 'excessive lobbying' gives NRA a pass." *The Washington Examiner.*](https://www.washingtonexaminer.com/news/warren-tax-on-excessive-lobbying-would-skip-nra)
 
 ## Podcasts:
+
+* [Scholar's Circle: "Dark Money in Politics keeps Voters in the Dark"](https://scholarscircle.org/scholars-circle-dark-money-in-politics-keeps-voters-in-the-dark-october-16-2022/)
 
 * [Policy Chats: "The History, Cause and Impacts of the Housing Crisis."](https://open.spotify.com/show/19fAfX6ZCE2paaYLFvfp0P)
 
