@@ -52,6 +52,7 @@ author_profile: true
 
 
 ## Media Interviews:
+* ["A professional couple who make over $200,000 combined say it’s ‘hilarious’ to think they could afford a home in Los Angeles." *Fortune Magazine.*](https://fortune.com/2023/04/10/housing-market-couple-earning-over-200000-priced-out-housing-costs-real-estate-los-angeles/)
 
 * ["Force multipliers: How one donor network is pushing the envelope on California campaign money." *CalMatters.*](https://calmatters.org/politics/election-2022/2022/08/california-campaign-finance-donor-network/)
 
