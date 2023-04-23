@@ -8,4 +8,4 @@ venue: 'State Politics and Policy Quarterly'
 paperurl: '[https://www.cambridge.org/core/journals/american-political-science-review/article/dark-parties-unveiling-nonparty-communities-in-american-political-campaigns/9576CD955EE490DD6555439FC1E34E71](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/do-male-and-female-legislators-have-different-twitter-communication-styles/7DA632E453AD9A924FE9DD42A315B112)'
 citation: 'Butler, Daniel M., Thad Kousser, and Stan Oklobdzija. 2023. “Do Male and Female Legislators Have Different Twitter Communication Styles?” State Politics & Policy Quarterly: 1–23. doi: 10.1017/spq.2022.16.'
 ---
-[Download Paper Here](https://github.com/StanOkl/StanOkl.github.io/blob/master/files/dark-parties-unveiling-nonparty-communities-in-american-political-campaigns.pdf)
+[Download Paper Here](https://github.com/StanOkl/StanOkl.github.io/blob/master/files/do-male-and-female-legislators-have-different-twitter-communication-styles.pdf)
