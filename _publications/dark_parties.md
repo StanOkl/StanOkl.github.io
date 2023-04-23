@@ -8,4 +8,4 @@ venue: 'The American Political Science Review'
 paperurl: 'https://www.cambridge.org/core/journals/american-political-science-review/article/dark-parties-unveiling-nonparty-communities-in-american-political-campaigns/9576CD955EE490DD6555439FC1E34E71'
 citation: 'OKLOBDZIJA, STAN. 2023. “Dark Parties: Unveiling Nonparty Communities in American Political Campaigns.” American Political Science Review: 1–22. doi: 10.1017/S0003055423000187.'
 ---
-[Download Paper Here](https://github.com/StanOkl/StanOkl.github.io/blob/master/files/campaigns_es.pdf)
+[Download Paper Here](https://github.com/StanOkl/StanOkl.github.io/blob/master/files/dark-parties-unveiling-nonparty-communities-in-american-political-campaigns.pdf)
