@@ -52,6 +52,9 @@ author_profile: true
 
 
 ## Media Interviews:
+
+* ["Who Killed Affordable Housing?" *Science Vs. (Podcast.)*](https://gimletmedia-com.cdn.ampproject.org/v/s/gimletmedia.com/amp/shows/science-vs/emhwebz4?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16876693610589&csi=1&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fgimletmedia.com%2Fshows%2Fscience-vs%2Femhwebz4)
+
 * ["A professional couple who make over $200,000 combined say it’s ‘hilarious’ to think they could afford a home in Los Angeles." *Fortune Magazine.*](https://fortune.com/2023/04/10/housing-market-couple-earning-over-200000-priced-out-housing-costs-real-estate-los-angeles/)
 
 * ["Force multipliers: How one donor network is pushing the envelope on California campaign money." *CalMatters.*](https://calmatters.org/politics/election-2022/2022/08/california-campaign-finance-donor-network/)
