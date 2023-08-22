@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Click here](https://stanokl.github.io/files/oklobdzija_cv_2021.pdf) for a copy of my current CV. 
+[Click here](https://stanokl.github.io/files/oklobdzija_cv.pdf) for a copy of my current CV. 
