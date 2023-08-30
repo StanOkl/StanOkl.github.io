@@ -53,6 +53,8 @@ author_profile: true
 
 ## Media Interviews:
 
+* ["For $200, a Person Can Fuel the Decline of Our Major Parties." *The New York Times.*](https://www.nytimes.com/2023/08/30/opinion/campaign-finance-small-donors.html)
+
 * ["Fox Executives Are Pouring Cash Into Joe Manchin's Campaign." *The Intercept.*](https://theintercept.com/2023/08/14/joe-manchin-fox-donors/)
 
 * ["Who Killed Affordable Housing?" *Science Vs. (Podcast.)*](https://gimletmedia-com.cdn.ampproject.org/v/s/gimletmedia.com/amp/shows/science-vs/emhwebz4?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=From%20%251%24s&aoh=16876693610589&csi=1&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fgimletmedia.com%2Fshows%2Fscience-vs%2Femhwebz4)
