@@ -15,7 +15,7 @@ author_profile: true
 
 ### For the Daily Camera (Boulder, Colorado):
 
-*["To keep from becoming California, Colorado needs to build"](https://www.dailycamera.com/2023/03/01/guest-opinion-stan-oklobdzija-to-keep-from-becoming-california-colorado-needs-to-build/)
+* ["To keep from becoming California, Colorado needs to build"](https://www.dailycamera.com/2023/03/01/guest-opinion-stan-oklobdzija-to-keep-from-becoming-california-colorado-needs-to-build/)
 
 ### For California YIMBY:
 * ["California’s Housing Crisis is a Failure of California’s Democracy"](https://cayimby.org/californias-housing-crisis-is-a-failure-of-californias-democracy/)
