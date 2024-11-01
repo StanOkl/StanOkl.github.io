@@ -7,6 +7,9 @@ author_profile: true
 
 ## Housing and Land-Use Policy:
 
+### For The Metropolitan Abundance Project:
+* [Give Transit Agencies Control Over Zoning](https://www.metroabundance.org/european-transit/)
+
 ### For Slow Boring:
 * ["America's cities need multi-party democracy"](https://www.slowboring.com/p/cities-democracy-multiparty)
 
