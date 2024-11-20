@@ -7,7 +7,7 @@ author_profile: true
 
 ## Housing and Land-Use Policy:
 
-### For the Times  &#151 Picayune | Advocate (New Orleans):
+### For the Times &mdash Picayune | Advocate (New Orleans):
 * ["Rethinking residential zones is a key to economic development"](https://www.nola.com/opinions/guest_columns/zoning-new-orleans-politics/article_2df67b48-8a7e-11ef-8b75-c330dc9d964e.html)
 
 ### For The Metropolitan Abundance Project:
