@@ -7,8 +7,11 @@ author_profile: true
 
 ## Housing and Land-Use Policy:
 
+### For the Times_Picayune | Advocate (New Orleans)
+* ["Rethinking residential zones is a key to economic development"](https://www.nola.com/opinions/guest_columns/zoning-new-orleans-politics/article_2df67b48-8a7e-11ef-8b75-c330dc9d964e.html)
+
 ### For The Metropolitan Abundance Project:
-* [Give Transit Agencies Control Over Zoning](https://www.metroabundance.org/european-transit/)
+* ["Give Transit Agencies Control Over Zoning"](https://www.metroabundance.org/european-transit/)
 
 ### For Slow Boring:
 * ["America's cities need multi-party democracy"](https://www.slowboring.com/p/cities-democracy-multiparty)
