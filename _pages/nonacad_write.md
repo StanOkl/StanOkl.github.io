@@ -32,11 +32,6 @@ author_profile: true
 
 * ["LA Needs SB 50 to Break the NIMBY Doom-Loop."](http://beyondchron.org/la-needs-sb-50-to-break-the-nimby-doom-loop/)
 
-### For Abundant Housing Los Angeles:
-
-* ["Working to Implement our Policy Agenda in 2020."](https://abundanthousingla.org/working-to-implement-our-policy-agenda-in-2020/)
-
-
 ## Campaign Finance:
 
 ### For 3Streams:
@@ -55,7 +50,6 @@ author_profile: true
 * [“See who’s financing Illinois elections — thanks to local open data group”](http://sunlightfoundation.com/blog/2014/08/06/see-whos-financing-illinois-elections-thanks-to-local-open-data-group/)
 
 * [“Outside political spending = economic boom in D.C.”](http://sunlightfoundation.com/blog/2014/07/17/outside-political-political-spending-economic-boom-in-d-c/)
-
 
 ## Media Interviews:
 
