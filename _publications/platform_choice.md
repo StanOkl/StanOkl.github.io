@@ -8,7 +8,7 @@ venue: 'Journal of Political Institutions and Political Economy'
 paperurl: 'https://nowpublishers.com/article/Details/PIP-0096'
 citation: 'Elmendorf, Christopher, Clayton Nall and Stan Oklobdzija. 2024. "What State Housing Policies Do Voters Want? Evidence from a Platform-Choice Experiment", Journal of Political Institutions and Political Economy: Vol. 5: No. 1, pp 117-152.'
 ---
-[Download Paper Here](https://github.com/StanOkl/StanOkl.github.io/edit/master/_publications/platform_choice.md#:~:text=PIP%2D0096%20%2D%20second-,revised,-proofs_JP%20(1).pdf)
+[Download Paper Here](https://github.com/StanOkl/StanOkl.github.io/blob/ec7f7333344fe79de31cdbf53c69a2322a5291b9/files/PIP-0096%20-%20second%20revised%20proofs_JP%20(1).pdf)
 
 
 
