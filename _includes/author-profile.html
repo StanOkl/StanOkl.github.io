@@ -76,6 +76,9 @@
       {% if author.dribbble %}
         <li><a href="https://dribbble.com/{{ author.dribbble }}"><i class="fab fa-dribbble-square" aria-hidden="true"></i> Dribbble</a></li>
       {% endif %}
+      {% if author.bluesky %}
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}" target="_blank" rel="noopener"><i class="fas fa-cloud" aria-hidden="true"></i> Bluesky</a></li>
+      {% endif %}
       {% if author.pinterest %}
         <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-pinterest" aria-hidden="true"></i> Pinterest</a></li>
       {% endif %}
