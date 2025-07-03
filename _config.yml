@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person 
-  name                   : Bluesky
+  name                   : bluesky
   links: 
     - "https://bsky.app/profile/stano.bsky.social"
 
