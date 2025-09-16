@@ -7,6 +7,9 @@ author_profile: true
 
 ## Housing and Land-Use Policy:
 
+### For CalMatters:
+* ["The longer California squabbles over ‘local control,’ the more people it pushes to other states"](https://calmatters.org/commentary/2025/09/california-squabble-local-control-housing/)
+
 ### For the Times--Picayune | Advocate (New Orleans):
 * ["Rethinking residential zones is a key to economic development"](https://www.nola.com/opinions/guest_columns/zoning-new-orleans-politics/article_2df67b48-8a7e-11ef-8b75-c330dc9d964e.html)
 
