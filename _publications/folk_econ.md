@@ -22,10 +22,11 @@ excerpt:  >-
   supply liberalization for widespread affordability. We discuss the implications
   of these findings for efforts to expand the supply of housing.
 date: 2025-01-01
-venue: "Journal of Economic Perspectives"
-paperurl: "https://www.aeaweb.org/articles?id=10.1257/jep.20241428"
+venue: 'Journal of Economic Perspectives'
+paperurl: 'https://www.aeaweb.org/articles?id=10.1257/jep.20241428'
 citation: >- 
   Elmendorf, Christopher S., Clayton Nall, and Stan Oklobdzija. 2025.
   "The Folk Economics of Housing." Journal of Economic Perspectives 39 (3):
   45–66.
 ---
+[Download paper here](https://www.aeaweb.org/articles?id=10.1257/jep.20241428)
