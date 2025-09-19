@@ -23,8 +23,7 @@ excerpt: 'Why is housing supply so severely restricted in US cities and suburbs?
 date: 2025-01-01
 venue: "Journal of Economic Perspectives"
 paperurl: "https://www.aeaweb.org/articles?id=10.1257/jep.20241428"
-citation: >-
-  Elmendorf, Christopher S., Clayton Nall, and Stan Oklobdzija. 2025.
+citation: 'Elmendorf, Christopher S., Clayton Nall, and Stan Oklobdzija. 2025.
   "The Folk Economics of Housing." Journal of Economic Perspectives 39 (3):
-  45–66.
+  45–66.'
 ---
