@@ -1,8 +1,9 @@
 ---
 title: "The Folk Economics of Housing."
 collection: publications
-permalink:
-excerpt: 'Why is housing supply so severely restricted in US cities and suburbs? Urban
+permalink: ''
+excerpt:  >-
+  Why is housing supply so severely restricted in US cities and suburbs? Urban
   economists offer two primary hypotheses: homeowner self-interest and political
   fragmentation. Homeowners, who outnumber and have organizational advantages
   over renters, are said to lobby against development to protect their property
@@ -19,11 +20,12 @@ excerpt: 'Why is housing supply so severely restricted in US cities and suburbs?
   supermajorities support price controls, demand subsidies, and restrictions on
   putative bad actors, policies which they believe would be more effective than
   supply liberalization for widespread affordability. We discuss the implications
-  of these findings for efforts to expand the supply of housing.'
+  of these findings for efforts to expand the supply of housing.
 date: 2025-01-01
 venue: "Journal of Economic Perspectives"
 paperurl: "https://www.aeaweb.org/articles?id=10.1257/jep.20241428"
-citation: 'Elmendorf, Christopher S., Clayton Nall, and Stan Oklobdzija. 2025.
+citation: >- 
+  Elmendorf, Christopher S., Clayton Nall, and Stan Oklobdzija. 2025.
   "The Folk Economics of Housing." Journal of Economic Perspectives 39 (3):
-  45–66.'
+  45–66.
 ---
