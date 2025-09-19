@@ -1,7 +1,7 @@
 ---
 title: "The Folk Economics of Housing."
 collection: publications
-permalink: ''
+permalink: 
 excerpt:  >-
   Why is housing supply so severely restricted in US cities and suburbs? Urban
   economists offer two primary hypotheses: homeowner self-interest and political
