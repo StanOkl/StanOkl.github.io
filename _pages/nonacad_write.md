@@ -7,6 +7,10 @@ author_profile: true
 
 ## Housing and Land-Use Policy:
 
+### For The San Bernardino Sun/Riverside Press-Enterprise
+
+* ["Metrolink electrification would boost efficiency and reduce pollution"](https://www.sbsun.com/2026/02/07/metrolink-electrification-would-boost-efficiency-and-reduce-pollution/).
+
 ### For CalMatters:
 * ["The longer California squabbles over ‘local control,’ the more people it pushes to other states"](https://calmatters.org/commentary/2025/09/california-squabble-local-control-housing/)
 
@@ -55,6 +59,10 @@ author_profile: true
 * [“Outside political spending = economic boom in D.C.”](http://sunlightfoundation.com/blog/2014/07/17/outside-political-political-spending-economic-boom-in-d-c/)
 
 ## Media Interviews:
+
+* ["Gavin Newsom joins Trump in blaming big investors for housing crisis." *CalMatters.*](https://calmatters.org/housing/2026/01/newsom-private-equity-housing/)
+
+* ["How did an ‘implausible’ claim about jobs created by LA’s ‘mansion tax’ get cited by watchdogs?" *LAist.*](https://laist.com/news/housing-homelessness/los-angeles-mansion-tax-measure-ula-housing-construction-jobs-citizen-oversight-committee)
 
 * ["For $200, a Person Can Fuel the Decline of Our Major Parties." *The New York Times.*](https://www.nytimes.com/2023/08/30/opinion/campaign-finance-small-donors.html)
 
