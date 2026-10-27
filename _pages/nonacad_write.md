@@ -7,6 +7,10 @@ author_profile: true
 
 ## Housing and Land-Use Policy:
 
+### For the San Francisco Standard
+
+* ["To Fix California Politics, Make Its Politicians Afraid to Lose"](https://sfstandard.com/2026/10/18/california-politicians-new-parties-reform/).
+
 ### For The San Bernardino Sun/Riverside Press-Enterprise
 
 * ["Metrolink electrification would boost efficiency and reduce pollution"](https://www.sbsun.com/2026/02/07/metrolink-electrification-would-boost-efficiency-and-reduce-pollution/).
