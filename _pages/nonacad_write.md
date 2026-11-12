@@ -5,55 +5,51 @@ permalink: /nonacad_write/
 author_profile: true
 ---
 
-## Housing and Land-Use Policy:
-
-### For the San Francisco Standard
+## For the San Francisco Standard
 
 * ["To Fix California Politics, Make Its Politicians Afraid to Lose"](https://sfstandard.com/2026/10/18/california-politicians-new-parties-reform/).
 
-### For The San Bernardino Sun/Riverside Press-Enterprise
+## For The San Bernardino Sun/Riverside Press-Enterprise
 
 * ["Metrolink electrification would boost efficiency and reduce pollution"](https://www.sbsun.com/2026/02/07/metrolink-electrification-would-boost-efficiency-and-reduce-pollution/).
 
-### For CalMatters:
+## For CalMatters:
 * ["The longer California squabbles over ‘local control,’ the more people it pushes to other states"](https://calmatters.org/commentary/2025/09/california-squabble-local-control-housing/)
 
-### For the Times--Picayune | Advocate (New Orleans):
+## For the Times--Picayune | Advocate (New Orleans):
 * ["Rethinking residential zones is a key to economic development"](https://www.nola.com/opinions/guest_columns/zoning-new-orleans-politics/article_2df67b48-8a7e-11ef-8b75-c330dc9d964e.html)
 
-### For The Metropolitan Abundance Project:
+## For The Metropolitan Abundance Project:
 * ["Give Transit Agencies Control Over Zoning"](https://www.metroabundance.org/european-transit/)
 
-### For Slow Boring:
+## For Slow Boring:
 * ["America's cities need multi-party democracy"](https://www.slowboring.com/p/cities-democracy-multiparty)
 
-### For the Los Angeles Daily News:
+## For the Los Angeles Daily News:
 * ["The Myth of Excess Vacant Housing Distracts from Solutions"](https://www.dailynews.com/2021/03/25/the-myth-of-excess-vacant-housing-distracts-from-solutions/)
 
-### For the Daily Camera (Boulder, Colorado):
+## For the Daily Camera (Boulder, Colorado):
 
 * ["To keep from becoming California, Colorado needs to build"](https://www.dailycamera.com/2023/03/01/guest-opinion-stan-oklobdzija-to-keep-from-becoming-california-colorado-needs-to-build/)
 
-### For California YIMBY:
+## For California YIMBY:
 * ["California’s Housing Crisis is a Failure of California’s Democracy"](https://cayimby.org/californias-housing-crisis-is-a-failure-of-californias-democracy/)
 * ["Los Angeles Studio Apartments: Worth More than a Parking Lot?](https://cayimby.org/los-angeles-studio-apartments-worth-more-than-a-parking-lot/)
   * [White paper here.](https://cayimby.org/wp-content/uploads/2020/10/lac_parking_white_paper.pdf)
 
-### For BeyondChron:
+## For BeyondChron:
 
 * ["LA Needs SB 50 to Break the NIMBY Doom-Loop."](http://beyondchron.org/la-needs-sb-50-to-break-the-nimby-doom-loop/)
 
-## Campaign Finance:
-
-### For 3Streams:
+## For 3Streams:
 
 * ["Despite its Role in a Billion Dollar Corruption Scandal, 'Dark Money' is Here to Stay"](https://medium.com/3streams/despite-its-role-in-a-billion-dollar-corruption-scandal-dark-money-is-here-to-stay-3e194ac3dde9)
 
-### For the London School of Economics’ United States Policy and Politics Blog:
+## For the London School of Economics’ United States Policy and Politics Blog:
 
 * [“Why do lawmakers shutdown the government? Evidence from California shows we should ‘follow the money.’”](http://blogs.lse.ac.uk/usappblog/2018/03/01/why-do-lawmakers-shutdown-the-government-evidence-from-california-shows-we-should-follow-the-money/)
 
-### For the Sunlight Foundation:
+## For the Sunlight Foundation:
 
 * [“Will Big Taxi’s massive political spending advantage leave ride-sharing groups stranded?”](http://sunlightfoundation.com/blog/2014/07/31/will-big-taxis-massive-political-spending-advantage-leave-ride-sharing-groups-stranded/)
   * Story also picked up by the [Washington Post](http://www.washingtonpost.com/blogs/wonkblog/wp/2014/07/31/the-taxi-industry-is-crushing-uber-and-lyft-on-the-lobbying-front-3500-to-1/) and cited in [Vox Media.](http://www.vox.com/2014/8/19/6045597/plouffe-uber-taxi-companies-spend-more)
@@ -62,7 +58,7 @@ author_profile: true
 
 * [“Outside political spending = economic boom in D.C.”](http://sunlightfoundation.com/blog/2014/07/17/outside-political-political-spending-economic-boom-in-d-c/)
 
-## Media Interviews:
+# Media Interviews:
 
 * ["Gavin Newsom joins Trump in blaming big investors for housing crisis." *CalMatters.*](https://calmatters.org/housing/2026/01/newsom-private-equity-housing/)
 
@@ -84,7 +80,7 @@ author_profile: true
 
 * ["Warren tax on 'excessive lobbying' gives NRA a pass." *The Washington Examiner.*](https://www.washingtonexaminer.com/news/warren-tax-on-excessive-lobbying-would-skip-nra)
 
-## Podcasts:
+# Podcasts:
 
 * [Growth Machine (Austin, TX NPR): "Grow or Die"](https://kutkutx.studio/growth-machine/grow-or-die)
 
